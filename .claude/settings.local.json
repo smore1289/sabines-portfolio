@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(curl -sS -H \"X-Figma-Token: figd_J9tXfAQvh_3x4udzxLBSLiZkaVFnQ1FOwu2AzHEW\" \"https://api.figma.com/v1/files/LqLvJoSYUmwTzUcvzllXPL/images\" -o image-fills.json)",
+      "Bash(open *)",
+      "Bash(npm --version)",
+      "Bash(npx sanity *)"
+    ]
+  }
+}
